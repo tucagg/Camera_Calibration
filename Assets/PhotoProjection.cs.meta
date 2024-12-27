@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b7dd0bd4c02574cdf8c9b6fd484f5231
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - photoQuadPrefab: {instanceID: 0}
+  - teapotPrefab: {fileID: 170910, guid: a625c5d572d264df6973be1c36602330, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
